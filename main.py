@@ -1,4 +1,4 @@
-﻿# def reset fonksiyonu yazıyordum
+﻿# when converting to exe, try adding encoding ='utf8' inside the every with open()command. with open('file','r'encoding='utf8')
 import os
 from time import sleep
 from datetime import datetime,timedelta
