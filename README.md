@@ -1,4 +1,4 @@
-<h1>Note: This was my fun project which I did when learning programming. You can use
+<h1>Note: This was my fun project which I did to learn programming. You can use
   <a href = github.com/hasanaslan7/ExecuteOrder66>desktop version</a>  written in C# </h1>
 
 # loyalbuddy
